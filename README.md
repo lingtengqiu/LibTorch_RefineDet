@@ -10,7 +10,8 @@ compile your refinedet API
 bash do.sh  
 
 # How To use
-this model for 2 detector, if you want to add more. U only change a little from my code.
+this model for 2 detector, if you want to add more.  
+U only change a little from my code.  
 You must train your refinedet in your pytorch,and import the torch script.  
 and then U must give the anchor priors about U model and save to *.csv  
 
