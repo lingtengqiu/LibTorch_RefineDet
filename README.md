@@ -1,4 +1,3 @@
-# pytorch_cpp_API
 # LibTorch_RefineDet
 First You shall compile the cuda_gpu for c++  
 
