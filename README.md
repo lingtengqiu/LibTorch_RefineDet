@@ -1,6 +1,6 @@
 # pytorch_cpp_API
 # LibTorch_RefineDet
-first You shall compile the cuda_gpu for c++  
+First You shall compile the cuda_gpu for c++  
 
 ```BASH
 cd utils  
@@ -9,16 +9,16 @@ cp ./build/libgpu_nms.so ../
 ```
 
 
-second compile your refinedet API
+Second compile your refinedet API
 ```BASH
 cd ../
 bash do.sh  
 ```
 # How To use
-this model for 2 detector, if you want to add more.  
+This model for 2 detector, if you want to add more.  
 U only change a little from my code.  
 You must train your refinedet in your pytorch,and import the torch script.  
-and then U must give the anchor priors about U model and save to *.csv  
+U must give the anchor priors about U model and save to *.csv  
 
 ## In your Master
 U must put your test_img into JPEGImages.do follow:
