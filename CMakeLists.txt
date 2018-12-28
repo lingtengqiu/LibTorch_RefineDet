@@ -6,7 +6,7 @@ find_package(OpenCV REQUIRED)
 
 message(STATUS "OpenCV library status")
 message(STATUS " Version: ${OpenCV_VERSION}")	
-add_executable(launch refineDet.cpp post_process.cpp)
+add_executable(launch refine_det.cpp post_process.cpp)
 link_directories("/home/qlt/qiulingteng/app/app-example/refinedet")
 
 target_link_libraries(launch "${TORCH_LIBRARIES}" "${OpenCV_LIBS}" "/home/qlt/qiulingteng/app/app-example/refinedet/libnms_gpu.so")
