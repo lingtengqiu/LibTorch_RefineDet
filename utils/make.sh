@@ -1,7 +1,7 @@
 #!/bin/bash
 # **********************************************************
 # * Author        : lingteng qiu
-# * Email         : 1259738366@qq.com
+# * Email         : 
 # * Create time   : 2018-12-22 09:59
 # * Last modified : 2018-12-22 09:59
 # * Filename      : make.sh
