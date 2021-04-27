@@ -1,6 +1,6 @@
 /**********************************************************
- * Author        : lingteng qiu HIT
- * Email         : 1259738366@qq.com
+ * Author        : lingteng qiu
+ * Email         : 
  * Create time   : 2018-12-25 22:17
  * Last modified : 2018-12-25 22:17
  * Filename      : resnet_class.cpp
